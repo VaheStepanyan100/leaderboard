@@ -1,0 +1,51 @@
+main {
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.title {
+  margin-top: 60px;
+  margin-left: 60px;
+  font-size: 50px;
+}
+
+.recent-scores {
+  width: 40%;
+}
+
+.add-score {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.add-score > input {
+  width: 230px;
+  padding: 6px;
+}
+
+.submit {
+  align-self: flex-end;
+}
+
+.recent-scores > div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.scores-container {
+  border: 1px solid black;
+}
+
+.scores-container > li:nth-child(even) {
+  background-color: lightgray;
+}
