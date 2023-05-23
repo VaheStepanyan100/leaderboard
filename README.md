@@ -91,8 +91,6 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [VaheStepanyan100](https://github.com/VaheStepanyan100)
@@ -114,8 +112,6 @@ Contributions, issues, and feature requests are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project give a ⭐️
 
